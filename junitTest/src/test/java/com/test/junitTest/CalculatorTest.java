@@ -70,4 +70,8 @@ public class CalculatorTest {
 	public void testGetResult2() {
 		fail("Not yet implemented");
 	}
+	@Test
+	public void testGetResult3() {
+		fail("Not yet implemented");
+	}
 }
