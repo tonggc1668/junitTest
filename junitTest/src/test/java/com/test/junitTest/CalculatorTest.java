@@ -68,7 +68,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public void testGetResult2() {
-		fail("Not yet implemented");
+		fail("Not yet implemented2");
 	}
 	@Test
 	public void testGetResult3() {
