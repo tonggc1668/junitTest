@@ -50,7 +50,7 @@ public class CalculatorTest {
 		while (true);  
 	}
 
-/*	@Test
+	@Test
 	public void testSquare() {
 		fail("Not yet implemented");
 	}
@@ -65,6 +65,6 @@ public class CalculatorTest {
 	@Test
 	public void testGetResult() {
 		fail("Not yet implemented");
-	}*/
+	}
 
 }
